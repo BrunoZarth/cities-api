@@ -2,7 +2,8 @@
 # Cities API
 Discover the distance between two cities through this Springboot API! 
 
-
+Access Swagger via http://localhost:8080/swagger-ui/index.html when using local  
+or https://cities-distance-api.herokuapp.com/swagger-ui/index.html  through Heroku.
 
 ## Requirements
 
